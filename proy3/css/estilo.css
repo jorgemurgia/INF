@@ -1,0 +1,112 @@
+/**{
+    margin: 10px;
+}*/
+#principal{
+    width: 600px;
+    height: 600px;
+    background-color: yellowgreen;
+    margin:auto;
+    margin-top: 30px;
+    border-radius: 50px;
+    border-style: solid;
+}
+#caja1{
+    width: 560px;
+    height: 100px;
+    background-color: skyblue;
+    margin: auto;
+    margin-top: 20px;
+   
+}
+#caja2{
+    width: 560px;
+    height: 100px;
+    background-color: darksalmon;
+}
+#caja3{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    float: left;
+    border-radius: 100px;
+}
+#caja4{
+    width: 200px;
+    height: 200px;
+    background-color: purple;
+    float: right;
+}
+#caja11{
+    width: 200px;
+    height: 50px;
+    margin-top: 20px;
+    background-color: purple;
+}
+#fondo{
+    width: 600px;
+    height: 600px;
+    background-color: red;
+    margin:auto;
+    margin-top: 30px;
+    border-radius: 50px;
+    border-style: solid;
+}
+#cabeza{
+    width: 150px;
+    height: 150px;
+    background-color: aquamarine;
+    margin: auto;
+    border-radius: 100px;
+}
+#ojoi{
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    background-color: rgb(255, 255, 255);
+    float: inline-start;
+    margin-top: 50px;
+    margin-left: 40px;
+}
+#ojod{
+    width: 20px;
+    height: 20px;
+    border-radius: 10px;
+    background-color: white;
+    margin: auto;
+    float: inline-end;
+    margin-top: 50px;
+    margin-right: 40px;
+}
+#boca{
+    width: 10px;
+    height: 10px;
+    border-radius: 5px;
+    background-color: rgb(15, 3, 3);
+    margin: auto;
+    text-align: center;
+    margin-top: 70px;
+}
+#torso{
+    margin: auto;
+    display: flex;
+    align-items: center;
+}
+#cuerpo{
+    width: 200px;
+    height: 200px;
+    background-color: aquamarine;
+    margin: auto;
+    border-radius: 100px;
+}
+.brazo{
+    width: 200px;
+    height: 20px;
+    background-color: brown;
+}
+#base{
+    width: 250px;
+    height: 250px;
+    background-color: aquamarine;
+    margin: auto;
+    border-radius: 150px;
+}
