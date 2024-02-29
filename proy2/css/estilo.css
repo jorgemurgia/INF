@@ -1,0 +1,30 @@
+*{
+    margin: 25px;
+}
+
+body {
+     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+     background-color: rgb(251, 255, 0);
+}
+
+h1{
+    padding: 10px;
+    color:blue;
+    text-align:center;
+    text-decoration:underline;
+    text-transform:uppercase;
+    font-style: italic;
+    border-style: solid;
+    border-radius: 80px;
+    border-width: 15px;
+}
+
+p{
+    color:rgb(23, 23, 48);
+    text-align: justify;
+    background-color: aquamarine;
+}
+
+img{
+    width: 30%;
+}
