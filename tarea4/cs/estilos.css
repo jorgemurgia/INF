@@ -1,0 +1,14 @@
+/* clase de google */
+.reddit-mono-t1 {
+  font-family: "Reddit Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: 600;
+  font-style: normal;
+}
+
+.row{
+    margin: 5px;
+}
+.col{
+    margin: 5px;
+}
